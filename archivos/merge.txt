@@ -3,3 +3,11 @@ Valentina Leon Beltran
 Espero que en esta materia pueda comprender la programación orientada a objetos 
 y en general la sintaxis de Java, de tal manera que me vuelva lo suficientemente 
 ágil para resolver problemas en diferentes contextos.
+
+Se pudo ejecutar un "commit" para la carpeta archivos porque en el momento en el que tuvo
+el documento "respuesta.txt", ya no estaba vacia, representando un cambio, 
+permitiendo ejecutar el "commit"
+
+Es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones porque
+se puede tener conflictos entre la versione local y la version del servidor 
+
