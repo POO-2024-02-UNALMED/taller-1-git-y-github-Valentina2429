@@ -9,5 +9,5 @@ el documento "respuesta.txt", ya no estaba vacia, representando un cambio,
 permitiendo ejecutar el "commit"
 
 Es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones porque
-se puede tener conflictos entre la versione local y la version del servidor 
+se puede tener conflictos entre la versione local y la version del servidor. 
 
