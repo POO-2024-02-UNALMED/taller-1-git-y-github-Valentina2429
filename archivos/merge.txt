@@ -1,0 +1,5 @@
+Valentina Leon Beltran
+18
+Espero que en esta materia pueda comprender la programación orientada a objetos 
+y en general la sintaxis de Java, de tal manera que me vuelva lo suficientemente 
+ágil para resolver problemas en diferentes contextos.
