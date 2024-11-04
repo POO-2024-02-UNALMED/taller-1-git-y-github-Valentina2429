@@ -1,2 +1,2 @@
 Se pudo ejecutar un "commit" para la carpeta archivos porque en el momento en el que tuvo el documento "respuesta.txt", ya no estaba vacia, 
-permitiendo ejecutar el "commit".
+permitiendo ejecutar el "commit"
